@@ -1,6 +1,6 @@
 {
     "name": "konoha/php-http",
-    "description": "konoha http libraries",
+    "description": "konoha http libraries.",
     "type": "library",
     "homepage": "https://github.com/konoha-r/php-http",
     "license": "MIT",
