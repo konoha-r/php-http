@@ -1,0 +1,15 @@
+{
+    "name": "konoha",
+    "description": "konoha libraries",
+    "type": "library",
+    "homepage": "https://github.com/konoha-r/php-http",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Konoha\\": "src/"
+        }
+    }
+}
